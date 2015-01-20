@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTTP Response Fields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-20 12:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: RRZE-Webteam\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;esc_attr__;esc_attr_e;_n:1,2;"
+"_nx:4c,1,2;_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../http-response-fields.php:85
+#, php-format
+msgid ""
+"Ihre PHP-Version %s ist veraltet. Bitte aktualisieren Sie mindestens auf die "
+"PHP-Version %s."
+msgstr ""
+
+#: ../http-response-fields.php:89
+#, php-format
+msgid ""
+"Ihre Wordpress-Version %s ist veraltet. Bitte aktualisieren Sie mindestens "
+"auf die Wordpress-Version %s."
+msgstr ""
+
+#: ../http-response-fields.php:139 ../http-response-fields.php:146
+msgid "HTTP Antwort-Headerfelder"
+msgstr ""
+
+#: ../http-response-fields.php:152
+msgid "Übersicht"
+msgstr ""
+
+#: ../http-response-fields.php:155
+msgid ""
+"<p><strong>Für mehr Information:</strong></p><p><a href=\"http://blogs.fau."
+"de/cms\">Dokumentation</a></p><p><a href=\"http://blogs.fau.de/webworking"
+"\">RRZE-Webworking</a></p><p><a href=\"https://github.com/RRZE-Webteam"
+"\">RRZE-Webteam in Github</a></p>"
+msgstr ""
+
+#: ../http-response-fields.php:203 ../http-response-fields.php:297
+msgid "ETag"
+msgstr ""
+
+#: ../http-response-fields.php:204 ../http-response-fields.php:308
+msgid "Schwacher ETag"
+msgstr ""
+
+#: ../http-response-fields.php:205 ../http-response-fields.php:319
+msgid "Last-Modified"
+msgstr ""
+
+#: ../http-response-fields.php:206 ../http-response-fields.php:330
+msgid "Expires"
+msgstr ""
+
+#: ../http-response-fields.php:207 ../http-response-fields.php:341
+msgid "Cache-Control"
+msgstr ""
+
+#: ../http-response-fields.php:208
+msgid "Cacheablaufzeit"
+msgstr ""
+
+#: ../http-response-fields.php:209
+msgid "Cacheablaufzeit der Sucheausgabe"
+msgstr ""
+
+#: ../http-response-fields.php:210
+msgid "Cacheablaufzeit für angemeldete Nutzer"
+msgstr ""
+
+#: ../http-response-fields.php:217 ../http-response-fields.php:235
+msgid "Einstellungen &rsaquo; HTTP Antwort-Headerfelder"
+msgstr ""
+
+#: ../http-response-fields.php:250
+msgid "Einstellungen gespeichert."
+msgstr ""
+
+#: ../http-response-fields.php:300
+msgid ""
+"Dient zur Bestimmung von Änderungen an der angeforderten Post-Type-Ausgabe "
+"und wird hauptsächlich zum Caching verwendet."
+msgstr ""
+
+#: ../http-response-fields.php:311
+msgid ""
+"Der ETag darf von mehreren Post-Type-Ausgaben geführt werden, falls diese "
+"zueinander äquivalent sind, sich also semantisch nicht signifikant "
+"unterscheiden."
+msgstr ""
+
+#: ../http-response-fields.php:322
+msgid "Zeitpunkt der letzten Änderung an der Post-Type-Ausgabe."
+msgstr ""
+
+#: ../http-response-fields.php:333
+msgid "Ab wann die Post-Type-Ausgabe als veraltet angesehen werden kann."
+msgstr ""
+
+#: ../http-response-fields.php:344
+msgid ""
+"Teilt allen Caching-Systeme (z. B. Proxys) mit, ob und wie lange das Objekt "
+"gespeichert werden darf."
+msgstr ""
+
+#: ../http-response-fields.php:353 ../http-response-fields.php:360
+#: ../http-response-fields.php:367
+msgid "Ablaufzeit des Caches in Sekunden."
+msgstr ""
