@@ -531,7 +531,7 @@ class HTTP_Response_Fields {
             self::set_headers_for_feed();
         } elseif (is_singular()) {
             self::set_headers_for_object();
-        } elseif (is_archive() || is_search() || is_home() || is_front_page()) {
+        } elseif (is_archive() || is_search() || is_home()) {
             if (is_search()) {
                 self::$options->cache_max_age = self::$options->cache_max_age_for_search_results;
             }
